@@ -230,11 +230,11 @@ body{
 }
 .sous-titre{
 	
+<<<<<<< Updated upstream
 	font-weight: bold;
 }
 #warpper_menu{
 	display:flex;
-	flex-wrap:wrap;
 	justify-content:space-around;
 	flex-direction:column;
 	flex-grow: 2;
@@ -242,7 +242,6 @@ body{
 }
 #warpper_menu_bis{
 	display:flex;
-	flex-wrap:wrap;
 	justify-content:space-around;
 	flex-direction:column;
 	flex-grow: 2;
@@ -262,7 +261,6 @@ body{
 }
 .text-base{
 	color:#4e4f50;
-	
 }
 hr.hr_menu{
 	margin-top:20px;
@@ -274,7 +272,6 @@ hr.hr_menu{
 #ads{
 	display: flex;
 	margin-top: 150px;
-	flex-wrap:warp;
 	width: 100%;
 	height: auto;
 }
@@ -306,6 +303,7 @@ img{
 #footer{
 	display:flex;
 	width:100%;
+<<<<<<< Updated upstream
 	height:150px;
 	background-color:#4c4c4c;
 	justify-content:space-around;
