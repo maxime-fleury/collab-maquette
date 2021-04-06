@@ -67,7 +67,7 @@
 @font-face
 {
     font-family: 'titre';
-    src: url('../font/Shorelines\ Script\ Bold.otf')
+    src: url('../font/Nagitha.ttf')
 }
 
 @font-face{
@@ -78,6 +78,11 @@
 @font-face{
     font-family: 'menu';
     src: url('../font/Chathura-Bold.ttf')
+}
+
+@font-face{
+    font-family: 'resto_thing';
+    src: url('../font/Chathura-Thin.ttf');
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Chathura:wght@100;300&display=swap');
