@@ -75,4 +75,9 @@
     src: url('../font/Chathura-Light.ttf')
 }
 
+@font-face{
+    font-family: 'menu';
+    src: url('../font/Chathura-Bold.ttf')
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Chathura:wght@100;300&display=swap');
