@@ -86,3 +86,75 @@
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Chathura:wght@100;300&display=swap');
+=======
+@font-face
+{
+    font-family: 'Bebas';
+    src: url('../font/BebasNeue-Regular.otf')
+}
+
+@font-face
+{
+    font-family: 'LemonB';
+    src: url('../font/LEMONMILK-Bold.otf')
+}
+
+@font-face
+{
+    font-family: 'LemonBI';
+    src: url('../font/LEMONMILK-BoldItalic.otf')
+}
+
+@font-face
+{
+    font-family: 'LemonL';
+    src: url('../font/LEMONMILK-Light.otf')
+}
+
+@font-face
+{
+    font-family: 'LemonLI';
+    src: url('../font/LEMONMILK-LightItalic.otf')
+}
+
+@font-face
+{
+    font-family: 'LemonM';
+    src: url('../font/LEMONMILK-Medium.otf')
+}
+
+@font-face
+{
+    font-family: 'LemonMI';
+    src: url('../font/LEMONMILK-MediumItalic.otf')
+}
+
+@font-face
+{
+    font-family: 'LemonR';
+    src: url('../font/LEMONMILK-Regular.otf')
+}
+
+@font-face
+{
+    font-family: 'LemonRI';
+    src: url('../font/LEMONMILK-RegularItalic.otf')
+}
+
+@font-face
+{
+    font-family: 'modern';
+    src: url('../font/MovLette.ttf')
+}
+
+@font-face
+{
+    font-family: 'quartzo';
+    src: url('../font/QUARTZO\ ©\ PERSONAL\ USE\ ONLY.ttf')
+}
+
+@font-face
+{
+    font-family: 'titre';
+    src: url('../font/Shorelines\ Script\ Bold.otf')
+}
