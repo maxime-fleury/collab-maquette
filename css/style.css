@@ -97,4 +97,13 @@ img{
 	width:100%;
 	height:150px;
 	background-color:#4c4c4c;
+	justify-content:space-around;
+	flex-direction:rows;
+}
+#footer div{
+	padding:75px;
+}
+
+i{
+	padding-right:15px;
 }
