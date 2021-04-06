@@ -1,3 +1,214 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(31, 31, 31);
+    color: white;
+}
+
+a:link{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+a:visited{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+/* ---------------------------------------------------Navbar--------------------------------------------------- */
+
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+
+    height: 70px;
+    margin-top: 50px;
+    margin-left: 130px;
+
+    font-family: 'menu';
+    font-size: 35px;
+}
+
+.logo{
+    margin-top: -18px;
+    margin-right: auto;
+
+    font-family: 'resto';
+    font-size: 60px;
+}
+
+.home{
+    margin-right: 45px;
+
+}
+.about{
+    margin-right: 45px;
+    
+}
+.menu{
+    margin-right: 45px;
+    
+}
+.faq{
+    margin-right: 45px;
+    
+}
+.page{
+    margin-right: 45px;
+    
+}
+.contact{
+    margin-right: 130px;
+    
+}
+
+#home{
+    position: absolute;
+
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+
+    background-image: url(../images/fond_page1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+    z-index: -10; 
+}
+
+.container_home{
+    height: 33vw;
+    margin-top: 10vw;
+    text-align: center;
+}
+
+.container_home h1{
+    font-family: 'resto_thing';
+    font-weight: lighter;
+    font-size: 100px;
+    letter-spacing: 3px;
+}
+
+.container_home p{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-size: 40px;
+    line-height: 30px;
+    font-family: 'resto';
+}
+
+#about{
+    height: 938px;
+    margin-top: -8px;
+}
+
+.container1_about{
+    display: flex;
+    justify-content: space-around;
+    height: 65%;
+    background-color: #b9001e;
+}
+
+.sushi{
+    width: 534px;
+    height: 429px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 256px;
+
+    background-image: url(../images/photo_sushu.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    box-shadow: 0px 0px 10px 4px rgba(0, 0, 0, 0.71)
+}
+
+.about_right{
+    margin-top: 160px;
+    margin-right: 280px;
+
+    text-align: center;
+}
+
+.about_right h1{
+    font-size: 58px;
+    letter-spacing: 5px;
+    font-family: 'titre';
+}
+
+.about_right hr{
+    width: 140px;
+	height: 2px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+    margin-right: auto;
+    margin-left: auto;
+
+	background-color:#ffffff;
+
+    border: 0px;
+	
+}
+
+.about_right p{
+    width: 480px;
+
+    font-size: 33px;
+    line-height: 30px;
+    font-family: 'resto';
+}
+
+.container2_about{
+    height: 50%;
+    background-image: url(../images/fond_page2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    text-align: center;
+}
+
+.container2_about h1{
+    padding-top: 130px;
+
+    font-size: 58px;
+    letter-spacing: 5px;
+    font-family: 'titre';
+}
+
+.container2_about hr{
+    width: 140px;
+	height: 2px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+    margin-right: auto;
+    margin-left: auto;
+
+	background-color:#e91e5e;
+
+    border: 0px;
+	
+}
+
+.container2_about p{
+    width: 537px;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-size: 33px;
+    line-height: 30px;
+    font-family: 'resto';
+}
+=======
 .elemen_menu{
 
 }
@@ -107,3 +318,4 @@ img{
 i{
 	padding-right:15px;
 }
+
