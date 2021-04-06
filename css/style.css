@@ -1,0 +1,45 @@
+.elemen_menu{
+
+}
+.titre{
+	margin-top:6%;
+	text-align:center;
+	font-size:40px;
+}
+#OurMenu{
+	margin-top:6%;
+	display:flex;
+	justify-content:space-around;
+	align-items: center;
+}
+.sous-titre{
+	font-weight: bold;
+}
+#warpper_menu{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-around;
+	flex-direction:column;
+	flex-grow: 2;
+	margin-left:10%;
+}
+#warpper_menu_bis{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-around;
+	flex-direction:column;
+	flex-grow: 2;
+	margin-left:10%
+}
+.price_col1{
+	text-align:right;
+		color:#e91e5e;
+	float: right;
+    margin-right: 220px;
+}
+.price_col2{
+	text-align:right;
+	color:#e91e5e;
+	float: right;
+    margin-right: 40px;
+}
